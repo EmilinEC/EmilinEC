@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmilinEC
-- 👀 I’m interested in Estágio em TI
+- 👀 I’m interested in Estágio
 - 🌱 I’m currently studying Engenharia de Computação
 - 💞️ I’m looking to collaborate on Projeto Integrador UNIVESP
 - 📫 How to reach me emilinadamdalton@gmail.com
