@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmilinEC
 - 👀 I’m interested in Estágio em TI
-- 🌱 I’m currently studying Infraestrutura para Sistemas de Software e Plataforma de Ingestão e Análise de Dados
+- 🌱 I’m currently studying Engenharia de Computação
 - 💞️ I’m looking to collaborate on Projeto Integrador UNIVESP
 - 📫 How to reach me emilinadamdalton@gmail.com
 
